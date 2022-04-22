@@ -16,6 +16,6 @@ Aplicação console para cálculo de área e perímetro do quadrado e retângulo
 
 Realize o clone do repositório e execute o comando:
 
-´´´
+```
 dotnet run
-´´´
+```
