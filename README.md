@@ -3,7 +3,8 @@
 Aplicação console para cálculo de área e perímetro de figuras geométricas.
 
 - Quadrado;
-- Retângulo.
+- Retângulo;
+- Trapézio.
 
 ## Funcionalidades
 
